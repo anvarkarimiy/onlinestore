@@ -1,7 +1,3 @@
 print("Hello world")
 print("This is a test file for the any.py module.")
 print("This file is used to demonstrate the functionality of the any.py module.")
-print("The any.py module is a simple module that provides a function called any().")
-print("The any() function takes a list of values and returns True if any of the values")
-print("are True, and False if all of the values are False.")
-print("For example, if we have the following list of values:")
